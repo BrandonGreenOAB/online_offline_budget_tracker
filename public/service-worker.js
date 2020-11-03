@@ -10,6 +10,7 @@ const staticFilesToPreCache = [
   "/",
   "/index.js",
   "/manifest.webmanifest",
+  "/db.js"
 ].concat(iconFiles);
 
 // install
